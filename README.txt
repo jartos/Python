@@ -1,1 +1,1 @@
-This Repository is for testing and learning Python scripts.
+This repository is for Python language projects and test files.
